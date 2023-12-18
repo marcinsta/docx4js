@@ -1,4 +1,5 @@
 ![](https://api.travis-ci.org/lalalic/docx4js.svg?branch=master)
+change 1
 
 docx4js
 ===
